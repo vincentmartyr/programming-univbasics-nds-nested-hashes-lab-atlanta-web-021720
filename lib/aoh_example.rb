@@ -22,7 +22,7 @@ def literal_aoh
   [
     {name: "Don Gately", occupation: "Live=in Staff"},
     {name: "Joelle van Dyne", occupation: "Radio Personality"},
-    {name: "Pat Monteseian", occupation: "Staff"}, 
+    {name: "Pat Monteseian", occupation: "Staff"},
     {name: "Kate Gompert", occupation: "none"}
     {name: "Bruce Green", occupation: "Fan of Mildred"}
   ]
